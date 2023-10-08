@@ -12,8 +12,6 @@ To create a procedure using PL/SQL.
 6. Display the employee table
 
 ### Program:
-#### Developed by: ANISH RAJ P
-#### Register No: 212222230010
 
 ```sql
 create or replace procedure insert_employee_data AS
